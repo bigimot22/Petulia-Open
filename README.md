@@ -36,7 +36,7 @@ On the technical site I can highlight that it is reactive, fast, has nice animat
 
 <!-- GETTING STARTED -->
 ## Installation
-Petulia is available on the [App Store](https://apps.apple.com/tt/developer/johandre-delgado-moreno/id1289898741)
+Petulia is available on the [App Store](https://apps.apple.com/us/app/petulia-adorable-shelter-pets/id1552360947)
 
 Follow this steps to get a local copy up and running:
 1. Clone the repo
