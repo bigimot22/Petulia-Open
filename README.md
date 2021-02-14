@@ -26,7 +26,7 @@ This is the source code for **Petulia**, my deep dive into SwiftUI. It is a nati
 
 On the technical site I can highlight that it is reactive, fast, has nice animations, takes avantage of caching and it's a good iOS citizen.
 
-### Built With
+## Built With
 
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [Combine](https://developer.apple.com/documentation/combine)
@@ -54,6 +54,7 @@ class APIService: NetworkService {
   }
 ```
 
+## Contribuiting
 This is an open source project, feel free to fork and open a pull request.
 
 ### TO-DO:
@@ -63,21 +64,21 @@ This is an open source project, feel free to fork and open a pull request.
 - [ ] Add more sorting options
 - [ ] Add unit test
 
-### Gift to shelters and rescue organizations
+## Gift to shelters and rescue organizations
 Reach out if you need to connect your backend and rebrand this app for your shelter. I will happily assit you, as much as I can, free of charge.
 
 
-### Special Thanks
+## Special Thanks
 
 Special thanks to [Jeff](https://twitter.com/jefframes), [Ray](https://twitter.com/RayFromVA),  [Victoria](https://twitter.com/VicDevPiano) and all the awesome people at the [RW Bootcamp](https://www.raywenderlich.com/13699056-meet-the-2020-graduates-of-our-ios-android-bootcamps).
 
-### Contact
-* [Befriend Me On Twitter](https://twitter.com/EsMoscu)
-* [For Work On My Site](https://www.seadeveloper.com)
+## Contact
+* [Follow Me On Twitter](https://twitter.com/EsMoscu)
+* [Available For Work On My Site](https://www.seadeveloper.com)
 
-### License
+## License
 
-Published under the [Apache License 2.0](https://github.com/bigimot22/Petulia-Open/blob/main/LICENSE)
+Published under the [Apache License 2.0](https://github.com/bigimot22/Petulia-Open/blob/main/LICENSE).
 You are free to use this project to learn or build your own, just don't republish as is as your own.
 <br />
 <br />
