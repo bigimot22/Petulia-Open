@@ -41,18 +41,9 @@ Petulia is available on the [App Store](https://apps.apple.com/us/app/petulia-ad
 Follow this steps to get a local copy up and running:
 1. Clone the repo
 2. Get your credentials from [Petfinder](https://www.petfinder.com/developers/v2/docs/#using-the-api)
-3. Install dependencies
-4. Add it to your code here:
+3. Locate Petfinder-Info-Template.plist and rename it to Petfinder-Info.plist
+4. Add your API Key and Secret and save
 
-```Swift
-class APIService: NetworkService {
-
-  // Leaving them here for cloners convenience, but better to keep in your server.
-  private let apiKey = "YOUR-API-KEY"
-  private let secret =  "YOUR-SECRET-GOES-HERE"
-  //...
-  }
-```
 
 ## Contribuiting
 This is an open source project, feel free to fork and open a pull request.
@@ -70,7 +61,7 @@ Reach out if you need to connect your backend and rebrand this app for your shel
 
 ## Special Thanks
 
-Special thanks to [Jeff](https://twitter.com/jefframes), [Ray](https://twitter.com/RayFromVA),  [Victoria](https://twitter.com/VicDevPiano) and all the awesome people at the [RW Bootcamp](https://www.raywenderlich.com/13699056-meet-the-2020-graduates-of-our-ios-android-bootcamps).
+Special thanks to [Victoria](https://twitter.com/VicDevPiano), [Tom](https://twitter.com/BEstelrich), [Alberto](https://twitter.com/AlbertoTalavan), [Jeff](https://twitter.com/jefframes), [Ray](https://twitter.com/RayFromVA) and all the awesome people at the [RW Bootcamp](https://www.raywenderlich.com/13699056-meet-the-2020-graduates-of-our-ios-android-bootcamps).
 
 ## Contact
 * [Follow Me On Twitter](https://twitter.com/EsMoscu)
