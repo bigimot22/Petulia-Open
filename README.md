@@ -3,13 +3,15 @@
 <h1>Petulia - Pet Adoption iOS App</h1>
 
 <!-- PROJECT SHIELDS -->
-<p align="left">
+<p align="left"> 
+<a href="https://swift.org">
+<img src="https://img.shields.io/badge/Swift-5.1-orange" alt="Swift Version 5.1" /></a>
+<a href="https://developer.apple.com/ios/">
+<img src="https://img.shields.io/badge/iOS-14.0%2B-success" alt="iOS Version 14.0"/></a>
+<a href="https://developer.apple.com/xcode/swiftui/">
+<img src="https://img.shields.io/badge/SwiftUI-2.0-ff69b4" alt="SwiftUI 2.0" /></a>
 <a href="https://twitter.com/EsMoscu">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://www.instagram.com/ispanskiy/">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/johandre">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/follow-%40esmoscu-blue" alt="Twitter" /></a>
 </p>
 
 <!-- BODY -->
@@ -66,6 +68,16 @@ Special thanks to [Victoria](https://twitter.com/VicDevPiano), [Tom](https://twi
 ## Contact
 * [Follow Me On Twitter](https://twitter.com/EsMoscu)
 * [Available For Work On My Site](https://www.seadeveloper.com)
+
+<!-- CONTACT SHIELDS -->
+<p align="left">
+<a href="https://twitter.com/EsMoscu">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+<a href="https://www.instagram.com/ispanskiy/">
+<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/johandre">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+</p>
 
 ## License
 
