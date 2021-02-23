@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "gender-sign-female-black.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
